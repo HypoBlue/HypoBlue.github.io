@@ -106,13 +106,9 @@ var l_messagesEnabled = true;
 
 /*Enter your custom messages below*/
 var l_messages = [
-"Welcome to Wonderland Role Play!",
-"Make friends, follow rules & have fun!",
-"Be sure to visit our forums at WonderlandDarkRP.enjin.com!",
-"Wonderland Owners are, Lakoosha, Exhume & MissKitten",
-"Remember to be kind and respect others!",
-"Type !MOTD in your chat to view the rules!",
-"Donate to become a VIP member and have your own Custom Model and weapons!"
+"Bienvenue sur Asea RP Tokyo Ghoul",
+"Message au CCG, ne vous faites pas bouffer !",
+"Message au Ghoul, Ne vous faites pas tuer",
 ];
 
 /*Random message order?*/
